@@ -1,9 +1,9 @@
 
 import { Product, Category } from '../types';
 
-const WC_BASE_URL = "https://malumiere.ma/wp-json/wc/v3";
-const CONSUMER_KEY = "ck_ceb74c57429fdffa549b7457a735fda705a82f46";
-const CONSUMER_SECRET = "cs_2944d040a30ee3ed5056890f5a14e20f022eaa13";
+const WC_BASE_URL = "";
+const CONSUMER_KEY = "";
+const CONSUMER_SECRET = "";
 
 // Helper to strip HTML tags from description
 const stripHtml = (html: string) => {
